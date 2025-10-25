@@ -68,6 +68,7 @@
 
 ###  Foundations & Exploratory
 - [Data Science as a Field](https://coursera.org/share/3dd01b48eab25ec8851dc505dc8e9f36)
+- [Vitals Skills for Data Science](https://coursera.org/share/7881561fe469dcdbe49057ef4a2ba5d5)
 
 ###  Programming Certifications
 - [Basic Python Certification (HackerRank)](https://www.hackerrank.com/certificates/iframe/d9c05aa1a4a5)
