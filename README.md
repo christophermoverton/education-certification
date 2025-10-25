@@ -26,6 +26,7 @@
 - [Introduction to Big Data with Spark and Hadoop](https://coursera.org/share/8ec08c60c64238e33fc9466241efe4ab)
 - [Hands-on Linux & Shell Scripting](https://www.coursera.org/account/accomplishments/certificate/YPYLGTH9SLSG)
 - [Introduction to High-Performance and Parallel Computing](https://coursera.org/share/7bbe4228a8d3de17cfd2c41ff4e092a5)
+- [Data Storage in Microsoft Azure](https://coursera.org/share/7bbca008c948b5a439bf016dc7b15938)
 - [Data Warehouse Fundamentals](https://coursera.org/share/877b922d3cbe75a28325ab26cf20824a)
 
 ### Natural Language Processing
@@ -51,9 +52,11 @@
 - [Trees and Graphs: Basics](https://coursera.org/share/c6563f8c1e189c9f31039f4b580fef49)
 
 ### AI & Machine Learning
+- [Applied Machine Learning](https://coursera.org/share/a108824f31fc6c388e78c6c517321942)
 - [Introduction to Machine Learning: Supervised Learning](https://coursera.org/share/1d50bf5c46ac9ef4fed86cfd017bcd29)
 - [Unsupervised Algorithms in Machine Learning](https://coursera.org/share/a22b848da2ad0648aa961c543cc888c4)
 - [Introduction to Deep Learning](https://coursera.org/share/d23b8e4c54c460f0af60df4b985a7f29)
+- [Machine Learning with Apache Spark](https://coursera.org/share/67040b2ef85dc37acc4454785fb5e3bd)
 
 ###  Python, SQL & Databases
 - [Databases and SQL for Data Science with Python](https://coursera.org/share/901c87038e04fe7a4c0650726029e87d)
