@@ -28,6 +28,9 @@
 - [Introduction to High-Performance and Parallel Computing](https://coursera.org/share/7bbe4228a8d3de17cfd2c41ff4e092a5)
 - [Data Warehouse Fundamentals](https://coursera.org/share/877b922d3cbe75a28325ab26cf20824a)
 
+### Natural Language Processing
+- [Fundamentals of Natural Language Processing](https://coursera.org/share/ce2f60fe84f035ce8159aeda6af49c6d)
+
 ###  Statistics, Inference & Regression
 - [Probability Theory: Foundation for Data Science](https://coursera.org/share/ec498635eb6464cbcf2d66ff8613d2df)
 - [Statistical Inference & Hypothesis Testing](https://coursera.org/share/7a7aa80a77b10bbd5236db4c33064f94)
@@ -35,12 +38,17 @@
 - [Modern Regression Analysis in R](https://coursera.org/share/8cc39fe1fffffac9e0034e9bb1c3564c)
 - [ANOVA and Experimental Design](https://coursera.org/share/006512db87699ee473c1068fbbfe58ea)
 - [Generalized Linear Models and Nonparametric Regression](https://coursera.org/share/f58b3d9868f3e94924cdbeec6f833384)
+- [Resampling, Selection and Splines](https://coursera.org/share/23f6d9f7ad20951ece4c8acc97fd562c)
+- [Regression and Classification](https://coursera.org/share/77a2dd76df25aa5343e781937653f85a)
+- [Introduction to Bayesian Statistics for Data Science](https://coursera.org/share/2dc9b052b604ddd9c20f8c20632bbcdd)
 
 ###  Algorithms, Data Mining & Theory
 - [Algorithms for Searching, Sorting, and Indexing](https://coursera.org/share/f96fe5c251fe735e4ac313cb4d3b9b02)
+- [Dynamic Programming, Greedy Algorithms](https://coursera.org/share/002782b5669d40000b88aef92060336b)
 - [Data Mining Methods](https://coursera.org/share/48c2984a7033bc3c12bfe8ca77bd0ff8)
 - [Data Mining Pipeline](https://coursera.org/share/c3f8f24a854ee6815598c2d2ed70b692)
 - [Functional Programming Principles in Scala](https://coursera.org/share/3a9c542738e0bf07eb7416bc95c6b60b)
+- [Trees and Graphs: Basics](https://coursera.org/share/c6563f8c1e189c9f31039f4b580fef49)
 
 ### AI & Machine Learning
 - [Introduction to Machine Learning: Supervised Learning](https://coursera.org/share/1d50bf5c46ac9ef4fed86cfd017bcd29)
